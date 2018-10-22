@@ -1,8 +1,10 @@
 # gkrellm
 
+System monitor
+
 # Controls
 
-Switch between Ncurses and SDL GUI in runtime - S
+S - Switch between Ncurses and SDL GUI in runtime
 
 # Prerequisites
 
