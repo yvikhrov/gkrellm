@@ -1,0 +1,6 @@
+build*
+ft_gkrellm
+*.ini
+*DS_Store*
+Debug*
+Release*
