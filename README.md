@@ -3,8 +3,9 @@
 System monitor
 
 # Controls
-
-S - Switch between Ncurses and SDL GUI in runtime
+Key|Action|
+:-:|:-:
+<kbd>S</kbd>|Switch between Ncurses and SDL GUI in runtime
 
 # Prerequisites
 
